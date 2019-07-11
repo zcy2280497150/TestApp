@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="title_bar_left_click" type="id"/>
+    <item name="title_bar_right_click" type="id"/>
+    <item name="title_bar_center_click" type="id"/>
+    <item name="view_tag_key" type="id"/>
+
+</resources>

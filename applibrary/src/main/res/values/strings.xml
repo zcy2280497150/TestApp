@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLibrary</string>
+    <string name="reset_txt">取消</string>
+    <string name="client_key">client</string>
+    <string name="item_nav_test">test</string>
+    <string name="client_value">1</string>
+    <string name="log_tag">@string/app_name</string>
+</resources>

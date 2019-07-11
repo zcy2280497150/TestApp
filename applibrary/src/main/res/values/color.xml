@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimaryDark">@color/transparent</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="key_ok_color">#1280FA</color>
+    <color name="key_ok_color_pressed">#0174f2</color>
+    <color name="activity_new_bg_color">@color/transparent</color>
+    <color name="line_color">@color/u_f1f1f1</color>
+
+    <color name="u_f1f1f1">#f1f1f1</color>
+    <color name="nav_text_color_light">#2307f4</color>
+    <color name="nav_text_color_normal">#999999</color>
+    <color name="welcome_bg_center_color">#000000</color>
+    <color name="welcome_bg_edge_color">#353535</color>
+    <color name="simple_btm_bg">#55000000</color>
+    <color name="title_text_color">#222745</color>
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="holo_red_light">@android:color/holo_red_light</color>
+    <color name="holo_red_dark">@android:color/holo_red_dark</color>
+    <color name="holo_green_light">@android:color/holo_green_light</color>
+    <color name="holo_green_dark">@android:color/holo_green_dark</color>
+    <color name="holo_blue_bright">@android:color/holo_blue_bright</color>
+    <color name="holo_blue_light">@android:color/holo_blue_light</color>
+    <color name="holo_blue_dark">@android:color/holo_blue_dark</color>
+    <color name="tab_indicator_text">@android:color/tab_indicator_text</color>
+    <color name="darker_gray">@android:color/darker_gray</color>
+    <color name="background_light">@android:color/background_light</color>
+    <color name="background_dark">@android:color/background_dark</color>
+    <color name="holo_orange_dark">@android:color/holo_orange_dark</color>
+    <color name="holo_orange_light">@android:color/holo_orange_light</color>
+    <color name="tertiary_text_dark">@android:color/tertiary_text_dark</color>
+    <color name="tertiary_text_light">@android:color/tertiary_text_light</color>
+    <color name="holo_purple">@android:color/holo_purple</color>
+    <color name="primary_text_dark">@android:color/primary_text_dark</color>
+    <color name="primary_text_light">@android:color/primary_text_light</color>
+    <color name="primary_text_dark_nodisable">@android:color/primary_text_dark_nodisable</color>
+    <color name="primary_text_light_nodisable">@android:color/primary_text_light_nodisable</color>
+    <color name="secondary_text_dark">@android:color/secondary_text_dark</color>
+    <color name="secondary_text_light">@android:color/secondary_text_light</color>
+    <color name="secondary_text_dark_nodisable">@android:color/secondary_text_dark_nodisable</color>
+    <color name="secondary_text_light_nodisable">@android:color/secondary_text_light_nodisable</color>
+    <color name="widget_edittext_dark">@android:color/widget_edittext_dark</color>
+
+</resources>

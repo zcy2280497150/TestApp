@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="15dp"
+    android:height="20dp"
+    android:viewportWidth="150"
+    android:viewportHeight="200">
+
+    <path
+        android:strokeColor="@color/nav_text_color_normal"
+        android:strokeWidth="4"
+        android:pathData="M2 75 A1 1 1 1 1 148 75 v123 h-146z"/>
+
+    <path
+        android:strokeColor="@color/nav_text_color_normal"
+        android:strokeWidth="2"
+        android:pathData="M6 77 h67 v117 h-67z "/>
+
+    <path
+        android:strokeColor="@color/nav_text_color_normal"
+        android:strokeWidth="2"
+        android:pathData="M77 77 h67 v117 h-67z "/>
+
+    <path
+        android:strokeColor="@color/nav_text_color_normal"
+        android:strokeWidth="1"
+        android:pathData="M 60 120 A1 1 1 1 1 70 120 A1 1 1 1 1 60 120"/>
+
+    <path
+        android:strokeColor="@color/nav_text_color_normal"
+        android:strokeWidth="1"
+        android:pathData="M 80 120 A1 1 1 1 1 90 120 A1 1 1 1 1 80 120"/>
+
+    <clip-path android:pathData="M0 75 A1 1 1 1 1 150 75 z">
+
+        <path
+            android:strokeColor="@color/nav_text_color_normal"
+            android:strokeWidth="2"
+            android:pathData="M25 75 v-75"/>
+
+        <path
+            android:strokeColor="@color/nav_text_color_normal"
+            android:strokeWidth="2"
+            android:pathData="M50 75 v-75"/>
+
+        <path
+            android:strokeColor="@color/nav_text_color_normal"
+            android:strokeWidth="2"
+            android:pathData="M75 75 v-75"/>
+
+        <path
+            android:strokeColor="@color/nav_text_color_normal"
+            android:strokeWidth="2"
+            android:pathData="M100 75 v-75"/>
+
+        <path
+            android:strokeColor="@color/nav_text_color_normal"
+            android:strokeWidth="2"
+            android:pathData="M125 75 v-75"/>
+
+        <path
+            android:strokeColor="@color/nav_text_color_normal"
+            android:strokeWidth="4"
+            android:pathData="M0 75 h150"/>
+
+    </clip-path>
+
+</vector>

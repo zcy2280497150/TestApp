@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="10dp"
+    android:viewportWidth="200"
+    android:viewportHeight="20">
+
+    <!--<group android:name="vectot_racket">-->
+        <!--<path-->
+            <!--android:fillColor="#ffff00"-->
+            <!--android:strokeLineCap="round"-->
+            <!--android:pathData="M43,45 l3,3 10,-10 -3,-2 z"/>-->
+        <!--<path-->
+            <!--android:fillColor="#0000ff"-->
+            <!--android:pathData="M35,40 a15,10 0,0 1 20,10"/>-->
+        <!--<path-->
+            <!--android:fillColor="#ff0000"-->
+            <!--android:pathData="M35,40 a15,10 0,1 0 20,10"/>-->
+    <!--</group>-->
+    <!--<group android:name="vectot_pingpong">-->
+        <!--<path-->
+            <!--android:name="vectot_pingpong_path"-->
+            <!--android:fillColor="@color/white"-->
+            <!--android:pathData="M35,45 a3,3 0,1 0 1,0"/>-->
+    <!--</group>-->
+
+    <group android:name="bx1_group">
+        <path
+            android:fillColor="@color/white"
+            android:strokeWidth="1"
+            android:pathData="M0 0 ,C40 0 60 20 100 20 ,C140 ,20 160 0 200 0 ,L200 20 0 20Z"/>
+
+    </group>
+
+
+</vector>

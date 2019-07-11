@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_frame_color" format="color"/>
+        <attr name="civ_frame_width" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="cpb_progress_bar_bg_color" format="color"/>
+        <attr name="cpb_progress_bar_color" format="color"/>
+        <attr name="cpb_progress_radius" format="dimension"/>
+        <attr name="cpb_progress_stroke_width" format="dimension"/>
+        <attr name="cpb_progress" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="WaterfallLayout">
+        <attr name="layout_spacing_h" format="dimension"/>
+        <attr name="layout_spacing_v" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
